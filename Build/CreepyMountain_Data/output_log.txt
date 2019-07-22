@@ -1,0 +1,35 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     4055 MB
+    Driver:   23.21.13.9135
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\study\Unity\Level Design\Build\CreepyMountain_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\study\Unity\Level Design\Build\CreepyMountain_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\study\Unity\Level Design\Build\CreepyMountain_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\study\Unity\Level Design\Build\CreepyMountain_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\study\Unity\Level Design\Build\CreepyMountain_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\study\Unity\Level Design\Build\CreepyMountain_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\study\Unity\Level Design\Build\CreepyMountain_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\study\Unity\Level Design\Build\CreepyMountain_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\study\Unity\Level Design\Build\CreepyMountain_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\study\Unity\Level Design\Build\CreepyMountain_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\study\Unity\Level Design\Build\CreepyMountain_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\study\Unity\Level Design\Build\CreepyMountain_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\study\Unity\Level Design\Build\CreepyMountain_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\study\Unity\Level Design\Build\CreepyMountain_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\study\Unity\Level Design\Build\CreepyMountain_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\study\Unity\Level Design\Build\CreepyMountain_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.466 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.837337 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4014 -> priority: 1 
+  Thread -> id: 3ffc -> priority: 1 
+  Thread -> id: 3564 -> priority: 1 
+  Thread -> id: 36b8 -> priority: 1 
